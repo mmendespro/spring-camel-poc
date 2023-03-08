@@ -1,7 +1,0 @@
-net/local/poc/department/service/controller/DepartmentController.class
-net/local/poc/department/service/domain/Department$DepartmentBuilder.class
-net/local/poc/department/service/domain/Department.class
-net/local/poc/department/service/repository/InitRepository.class
-net/local/poc/department/service/service/DepartmentService.class
-net/local/poc/department/service/repository/DepartmentRepository.class
-net/local/poc/department/service/Application.class

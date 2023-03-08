@@ -1,7 +1,0 @@
-server:
-  port: 9090
-
-camel:
-  servlet:
-    mapping:
-      context-path: /api/*
