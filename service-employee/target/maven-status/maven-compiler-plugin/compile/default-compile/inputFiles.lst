@@ -1,0 +1,6 @@
+/home/mgomes/POC/spring-camel-poc/service-employee/src/main/java/net/local/poc/employee/service/controller/EmployeeController.java
+/home/mgomes/POC/spring-camel-poc/service-employee/src/main/java/net/local/poc/employee/service/domain/Employee.java
+/home/mgomes/POC/spring-camel-poc/service-employee/src/main/java/net/local/poc/employee/service/repository/EmployeeRepository.java
+/home/mgomes/POC/spring-camel-poc/service-employee/src/main/java/net/local/poc/employee/service/repository/InitRepository.java
+/home/mgomes/POC/spring-camel-poc/service-employee/src/main/java/net/local/poc/employee/service/Application.java
+/home/mgomes/POC/spring-camel-poc/service-employee/src/main/java/net/local/poc/employee/service/service/EmployeeService.java

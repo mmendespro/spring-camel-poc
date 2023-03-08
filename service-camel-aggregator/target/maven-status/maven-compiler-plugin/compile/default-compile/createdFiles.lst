@@ -1,0 +1,3 @@
+net/local/poc/camel/aggregator/service/routes/CamelRoute.class
+net/local/poc/camel/aggregator/service/aggregators/DepartmentAggregator.class
+net/local/poc/camel/aggregator/service/Application.class

@@ -1,0 +1,3 @@
+/home/mgomes/POC/spring-camel-poc/service-camel-aggregator/src/main/java/net/local/poc/camel/aggregator/service/routes/CamelRoute.java
+/home/mgomes/POC/spring-camel-poc/service-camel-aggregator/src/main/java/net/local/poc/camel/aggregator/service/Application.java
+/home/mgomes/POC/spring-camel-poc/service-camel-aggregator/src/main/java/net/local/poc/camel/aggregator/service/aggregators/DepartmentAggregator.java
